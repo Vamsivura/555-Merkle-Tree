@@ -1,0 +1,1 @@
+Typically, Merkle trees have a branching factor of 2, meaning that each node has up to 2 children.

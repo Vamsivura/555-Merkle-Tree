@@ -1,0 +1,1 @@
+Merkle trees are used in distributed systems for efficient data verification.

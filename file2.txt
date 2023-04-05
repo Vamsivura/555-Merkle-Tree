@@ -1,0 +1,1 @@
+It is a tree structure in which each leaf node is a hash of a block of data.
