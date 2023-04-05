@@ -1,0 +1,1 @@
+A Merkle tree is a hash-based data structure.
